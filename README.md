@@ -1,4 +1,4 @@
-# TIENDA ONLINE
+# **TIENDA ONLINE**
 ## *Ejercicio de evaluación*
 
 Aquí podrás acceder a una serie de ejercicios para la creación de la tiena online *🌸Elena´s Shop🌸*!
